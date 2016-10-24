@@ -1,0 +1,1 @@
+This repository contains a few of my best answers to short questions/assignments in Wyncode’s Fort Lauderdale Cohort 7.
